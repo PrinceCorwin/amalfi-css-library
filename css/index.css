@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Poppins;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.cards {
+  padding: 1rem;
+}
+.cards .cards-title {
+  font-size: 2rem;
+}
+.cards .cards-area {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+}
+.cards .cards-area .card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+.cards .cards-area .card .card-title {
+  font-size: 1.5rem;
+  padding: 0.75rem;
+  font-weight: bold;
+}
+.cards .cards-area .card .card-main-img {
+  width: 25%;
+  border-radius: 50%;
+}
+.cards .cards-area .card .card-body {
+  font-size: 1rem;
+  text-align: left;
+}
+.cards .cards-area .card .card-body a {
+  text-decoration: underline;
+}

@@ -1,0 +1,9 @@
+@import "variables";
+// since base is below variables, I can use variables in the base file without importing it there first
+@import "base";
+
+// colors
+
+// components
+@import "components/card";
+// utilities (marging, padding, opacity)

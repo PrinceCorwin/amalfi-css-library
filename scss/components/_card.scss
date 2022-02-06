@@ -1,0 +1,43 @@
+.cards {
+  padding: 1rem;
+  .cards-title {
+    font-size: $font-size-xxl;
+  }
+  .cards-area {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+    .card {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: $base-padding;
+      border: $base-border-thickness solid #ddd;
+      box-shadow: $base-box-shadow;
+      border-radius: $border-radius-xs;
+
+      .card-title {
+        font-size: $font-size-lg;
+        padding: $base-padding;
+        font-weight: bold;
+      }
+      .card-main-img {
+        width: 25%;
+        border-radius: 50%;
+      }
+      .card-body {
+        font-size: $base-font-size;
+        text-align: left;
+
+        a {
+          text-decoration: underline;
+        }
+        // img {
+        //   width: 25%;
+        //   float: right;
+        // }
+      }
+    }
+  }
+}
