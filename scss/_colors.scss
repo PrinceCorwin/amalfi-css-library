@@ -1,28 +1,63 @@
 @each $key, $val in $colors {
-  .text-#{$key} {
-    color: $val;
+  .color-#{$key} {
+    transition: color 0.2s ease-in-out;
+    color: $val !important;
+  }
+  .color-hover-#{$key} {
+    &:hover {
+      color: $val !important;
+    }
   }
   .bg-#{$key} {
-    background-color: $val;
+    transition: background-color 0.2s ease-in-out;
+    background-color: $val !important;
   }
-
-  // light variations
-  @for $i from 1 through 9 {
-    .text-#{$key}-light-#{$i} {
-      color: mix(white, $val, $i * 10);
-    }
-    .bg-#{$key}-light-#{$i} {
-      background-color: mix(white, $val, $i * 10);
+  .bg-hover-#{$key} {
+    &:hover {
+      background-color: $val !important;
     }
   }
-
-  // dark variations
-  @for $i from 1 through 9 {
-    .text-#{$key}-dark-#{$i} {
-      color: mix(black, $val, $i * 10);
+  @if ($val != black and $val != white) {
+    // light variations
+    @for $i from 1 through 9 {
+      .color-#{$key}-light-#{$i} {
+        color: mix(white, $val, $i * 10) !important;
+      }
+      .color-hover-#{$key}-light-#{$i} {
+        &:hover {
+          color: mix(white, $val, $i * 10) !important;
+        }
+      }
+      .bg-#{$key}-light-#{$i} {
+        background-color: mix(white, $val, $i * 10) !important;
+      }
+      .bg-hover-#{$key}-light-#{$i} {
+        &:hover {
+          background-color: mix(white, $val, $i * 10) !important;
+        }
+      }
     }
-    .bg-#{$key}-dark-#{$i} {
-      background-color: mix(black, $val, $i * 10);
+
+    // dark variations
+    @for $i from 1 through 9 {
+      .color-#{$key}-dark-#{$i} {
+        color: mix(black, $val, $i * 10) !important;
+      }
+      .color-hover-#{$key}-dark-#{$i} {
+        &:hover {
+          color: mix(black, $val, $i * 10) !important;
+        }
+      }
+      .bg-#{$key}-dark-#{$i} {
+        background-color: mix(black, $val, $i * 10) !important;
+      }
+      .bg-hover-#{$key}-dark-#{$i} {
+        &:hover {
+          background-color: mix(black, $val, $i * 10) !important;
+        }
+      }
     }
   }
 }
+
+// &:nth-child, &:active, &:visited, &:last-child etc
