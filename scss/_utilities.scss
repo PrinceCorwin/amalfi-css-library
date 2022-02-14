@@ -168,35 +168,36 @@ $utilities: (
       "10": $base-margin * 10,
     ),
   ),
-  "opacity": (
-    "prefix": "o",
-    "values": (
-      "10": 0.1,
-      "20": 0.2,
-      "30": 0.3,
-      "40": 0.4,
-      "50": 0.5,
-      "60": 0.6,
-      "70": 0.7,
-      "80": 0.8,
-      "90": 0.9,
-      "100": 1,
+  // "opacity": (
+  //   "prefix": "o",
+  //   "values": (
+  //     "10": 0.1,
+  //     "20": 0.2,
+  //     "30": 0.3,
+  //     "40": 0.4,
+  //     "50": 0.5,
+  //     "60": 0.6,
+  //     "70": 0.7,
+  //     "80": 0.8,
+  //     "90": 0.9,
+  //     "100": 1,
+  //   ),
+  // ),
+  "border-radius":
+    (
+      "prefix": "br",
+      "values": (
+        "default": $base-border-radius,
+        "none": 0,
+        "xs": $border-radius-xs,
+        "sm": $border-radius-sm,
+        "md": $border-radius-md,
+        "lg": $border-radius-lg,
+        "xl": $border-radius-xl,
+        "xxl": $border-radius-xxl,
+        "full": 50%,
+      ),
     ),
-  ),
-  "border-radius": (
-    "prefix": "br",
-    "values": (
-      "default": $base-border-radius,
-      "none": 0,
-      "xs": $border-radius-xs,
-      "sm": $border-radius-sm,
-      "md": $border-radius-md,
-      "lg": $border-radius-lg,
-      "xl": $border-radius-xl,
-      "xxl": $border-radius-xxl,
-      "full": 50%,
-    ),
-  ),
   "display": (
     "prefix": "display",
     "values": (
@@ -270,5 +271,13 @@ $utilities: (
         }
       }
     }
+  }
+}
+@for $i from 1 through 100 {
+  .o-#{$i} {
+    opacity: math.div($i, 100);
+  }
+  .w-#{$i} {
+    width: math.div($i, 100) * 100%;
   }
 }

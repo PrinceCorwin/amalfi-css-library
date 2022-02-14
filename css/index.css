@@ -5472,807 +5472,7 @@ img {
   text-decoration: underline;
 }
 
-.btn,
-.btn-outline-white-white,
-.btn-outline-white-black,
-.btn-outline-white-gray,
-.btn-outline-white-purple,
-.btn-outline-white-orange,
-.btn-outline-white-green,
-.btn-outline-white-yellow,
-.btn-outline-white-pink,
-.btn-outline-white-red,
-.btn-outline-white-cyan,
-.btn-outline-white-teal,
-.btn-outline-white-blue,
-.btn-outline-white-info,
-.btn-outline-white-error,
-.btn-outline-white-appBgDark,
-.btn-outline-white-appBg,
-.btn-outline-white-accentDark,
-.btn-outline-white-accentLight,
-.btn-outline-white-secondary,
-.btn-outline-white-primary,
-.btn-white-white,
-.btn-white-black,
-.btn-white-gray,
-.btn-white-purple,
-.btn-white-orange,
-.btn-white-green,
-.btn-white-yellow,
-.btn-white-pink,
-.btn-white-red,
-.btn-white-cyan,
-.btn-white-teal,
-.btn-white-blue,
-.btn-white-info,
-.btn-white-error,
-.btn-white-appBgDark,
-.btn-white-appBg,
-.btn-white-accentDark,
-.btn-white-accentLight,
-.btn-white-secondary,
-.btn-white-primary,
-.btn-outline-black-white,
-.btn-outline-black-black,
-.btn-outline-black-gray,
-.btn-outline-black-purple,
-.btn-outline-black-orange,
-.btn-outline-black-green,
-.btn-outline-black-yellow,
-.btn-outline-black-pink,
-.btn-outline-black-red,
-.btn-outline-black-cyan,
-.btn-outline-black-teal,
-.btn-outline-black-blue,
-.btn-outline-black-info,
-.btn-outline-black-error,
-.btn-outline-black-appBgDark,
-.btn-outline-black-appBg,
-.btn-outline-black-accentDark,
-.btn-outline-black-accentLight,
-.btn-outline-black-secondary,
-.btn-outline-black-primary,
-.btn-black-white,
-.btn-black-black,
-.btn-black-gray,
-.btn-black-purple,
-.btn-black-orange,
-.btn-black-green,
-.btn-black-yellow,
-.btn-black-pink,
-.btn-black-red,
-.btn-black-cyan,
-.btn-black-teal,
-.btn-black-blue,
-.btn-black-info,
-.btn-black-error,
-.btn-black-appBgDark,
-.btn-black-appBg,
-.btn-black-accentDark,
-.btn-black-accentLight,
-.btn-black-secondary,
-.btn-black-primary,
-.btn-outline-gray-white,
-.btn-outline-gray-black,
-.btn-outline-gray-gray,
-.btn-outline-gray-purple,
-.btn-outline-gray-orange,
-.btn-outline-gray-green,
-.btn-outline-gray-yellow,
-.btn-outline-gray-pink,
-.btn-outline-gray-red,
-.btn-outline-gray-cyan,
-.btn-outline-gray-teal,
-.btn-outline-gray-blue,
-.btn-outline-gray-info,
-.btn-outline-gray-error,
-.btn-outline-gray-appBgDark,
-.btn-outline-gray-appBg,
-.btn-outline-gray-accentDark,
-.btn-outline-gray-accentLight,
-.btn-outline-gray-secondary,
-.btn-outline-gray-primary,
-.btn-gray-white,
-.btn-gray-black,
-.btn-gray-gray,
-.btn-gray-purple,
-.btn-gray-orange,
-.btn-gray-green,
-.btn-gray-yellow,
-.btn-gray-pink,
-.btn-gray-red,
-.btn-gray-cyan,
-.btn-gray-teal,
-.btn-gray-blue,
-.btn-gray-info,
-.btn-gray-error,
-.btn-gray-appBgDark,
-.btn-gray-appBg,
-.btn-gray-accentDark,
-.btn-gray-accentLight,
-.btn-gray-secondary,
-.btn-gray-primary,
-.btn-outline-purple-white,
-.btn-outline-purple-black,
-.btn-outline-purple-gray,
-.btn-outline-purple-purple,
-.btn-outline-purple-orange,
-.btn-outline-purple-green,
-.btn-outline-purple-yellow,
-.btn-outline-purple-pink,
-.btn-outline-purple-red,
-.btn-outline-purple-cyan,
-.btn-outline-purple-teal,
-.btn-outline-purple-blue,
-.btn-outline-purple-info,
-.btn-outline-purple-error,
-.btn-outline-purple-appBgDark,
-.btn-outline-purple-appBg,
-.btn-outline-purple-accentDark,
-.btn-outline-purple-accentLight,
-.btn-outline-purple-secondary,
-.btn-outline-purple-primary,
-.btn-purple-white,
-.btn-purple-black,
-.btn-purple-gray,
-.btn-purple-purple,
-.btn-purple-orange,
-.btn-purple-green,
-.btn-purple-yellow,
-.btn-purple-pink,
-.btn-purple-red,
-.btn-purple-cyan,
-.btn-purple-teal,
-.btn-purple-blue,
-.btn-purple-info,
-.btn-purple-error,
-.btn-purple-appBgDark,
-.btn-purple-appBg,
-.btn-purple-accentDark,
-.btn-purple-accentLight,
-.btn-purple-secondary,
-.btn-purple-primary,
-.btn-outline-orange-white,
-.btn-outline-orange-black,
-.btn-outline-orange-gray,
-.btn-outline-orange-purple,
-.btn-outline-orange-orange,
-.btn-outline-orange-green,
-.btn-outline-orange-yellow,
-.btn-outline-orange-pink,
-.btn-outline-orange-red,
-.btn-outline-orange-cyan,
-.btn-outline-orange-teal,
-.btn-outline-orange-blue,
-.btn-outline-orange-info,
-.btn-outline-orange-error,
-.btn-outline-orange-appBgDark,
-.btn-outline-orange-appBg,
-.btn-outline-orange-accentDark,
-.btn-outline-orange-accentLight,
-.btn-outline-orange-secondary,
-.btn-outline-orange-primary,
-.btn-orange-white,
-.btn-orange-black,
-.btn-orange-gray,
-.btn-orange-purple,
-.btn-orange-orange,
-.btn-orange-green,
-.btn-orange-yellow,
-.btn-orange-pink,
-.btn-orange-red,
-.btn-orange-cyan,
-.btn-orange-teal,
-.btn-orange-blue,
-.btn-orange-info,
-.btn-orange-error,
-.btn-orange-appBgDark,
-.btn-orange-appBg,
-.btn-orange-accentDark,
-.btn-orange-accentLight,
-.btn-orange-secondary,
-.btn-orange-primary,
-.btn-outline-green-white,
-.btn-outline-green-black,
-.btn-outline-green-gray,
-.btn-outline-green-purple,
-.btn-outline-green-orange,
-.btn-outline-green-green,
-.btn-outline-green-yellow,
-.btn-outline-green-pink,
-.btn-outline-green-red,
-.btn-outline-green-cyan,
-.btn-outline-green-teal,
-.btn-outline-green-blue,
-.btn-outline-green-info,
-.btn-outline-green-error,
-.btn-outline-green-appBgDark,
-.btn-outline-green-appBg,
-.btn-outline-green-accentDark,
-.btn-outline-green-accentLight,
-.btn-outline-green-secondary,
-.btn-outline-green-primary,
-.btn-green-white,
-.btn-green-black,
-.btn-green-gray,
-.btn-green-purple,
-.btn-green-orange,
-.btn-green-green,
-.btn-green-yellow,
-.btn-green-pink,
-.btn-green-red,
-.btn-green-cyan,
-.btn-green-teal,
-.btn-green-blue,
-.btn-green-info,
-.btn-green-error,
-.btn-green-appBgDark,
-.btn-green-appBg,
-.btn-green-accentDark,
-.btn-green-accentLight,
-.btn-green-secondary,
-.btn-green-primary,
-.btn-outline-yellow-white,
-.btn-outline-yellow-black,
-.btn-outline-yellow-gray,
-.btn-outline-yellow-purple,
-.btn-outline-yellow-orange,
-.btn-outline-yellow-green,
-.btn-outline-yellow-yellow,
-.btn-outline-yellow-pink,
-.btn-outline-yellow-red,
-.btn-outline-yellow-cyan,
-.btn-outline-yellow-teal,
-.btn-outline-yellow-blue,
-.btn-outline-yellow-info,
-.btn-outline-yellow-error,
-.btn-outline-yellow-appBgDark,
-.btn-outline-yellow-appBg,
-.btn-outline-yellow-accentDark,
-.btn-outline-yellow-accentLight,
-.btn-outline-yellow-secondary,
-.btn-outline-yellow-primary,
-.btn-yellow-white,
-.btn-yellow-black,
-.btn-yellow-gray,
-.btn-yellow-purple,
-.btn-yellow-orange,
-.btn-yellow-green,
-.btn-yellow-yellow,
-.btn-yellow-pink,
-.btn-yellow-red,
-.btn-yellow-cyan,
-.btn-yellow-teal,
-.btn-yellow-blue,
-.btn-yellow-info,
-.btn-yellow-error,
-.btn-yellow-appBgDark,
-.btn-yellow-appBg,
-.btn-yellow-accentDark,
-.btn-yellow-accentLight,
-.btn-yellow-secondary,
-.btn-yellow-primary,
-.btn-outline-pink-white,
-.btn-outline-pink-black,
-.btn-outline-pink-gray,
-.btn-outline-pink-purple,
-.btn-outline-pink-orange,
-.btn-outline-pink-green,
-.btn-outline-pink-yellow,
-.btn-outline-pink-pink,
-.btn-outline-pink-red,
-.btn-outline-pink-cyan,
-.btn-outline-pink-teal,
-.btn-outline-pink-blue,
-.btn-outline-pink-info,
-.btn-outline-pink-error,
-.btn-outline-pink-appBgDark,
-.btn-outline-pink-appBg,
-.btn-outline-pink-accentDark,
-.btn-outline-pink-accentLight,
-.btn-outline-pink-secondary,
-.btn-outline-pink-primary,
-.btn-pink-white,
-.btn-pink-black,
-.btn-pink-gray,
-.btn-pink-purple,
-.btn-pink-orange,
-.btn-pink-green,
-.btn-pink-yellow,
-.btn-pink-pink,
-.btn-pink-red,
-.btn-pink-cyan,
-.btn-pink-teal,
-.btn-pink-blue,
-.btn-pink-info,
-.btn-pink-error,
-.btn-pink-appBgDark,
-.btn-pink-appBg,
-.btn-pink-accentDark,
-.btn-pink-accentLight,
-.btn-pink-secondary,
-.btn-pink-primary,
-.btn-outline-red-white,
-.btn-outline-red-black,
-.btn-outline-red-gray,
-.btn-outline-red-purple,
-.btn-outline-red-orange,
-.btn-outline-red-green,
-.btn-outline-red-yellow,
-.btn-outline-red-pink,
-.btn-outline-red-red,
-.btn-outline-red-cyan,
-.btn-outline-red-teal,
-.btn-outline-red-blue,
-.btn-outline-red-info,
-.btn-outline-red-error,
-.btn-outline-red-appBgDark,
-.btn-outline-red-appBg,
-.btn-outline-red-accentDark,
-.btn-outline-red-accentLight,
-.btn-outline-red-secondary,
-.btn-outline-red-primary,
-.btn-red-white,
-.btn-red-black,
-.btn-red-gray,
-.btn-red-purple,
-.btn-red-orange,
-.btn-red-green,
-.btn-red-yellow,
-.btn-red-pink,
-.btn-red-red,
-.btn-red-cyan,
-.btn-red-teal,
-.btn-red-blue,
-.btn-red-info,
-.btn-red-error,
-.btn-red-appBgDark,
-.btn-red-appBg,
-.btn-red-accentDark,
-.btn-red-accentLight,
-.btn-red-secondary,
-.btn-red-primary,
-.btn-outline-cyan-white,
-.btn-outline-cyan-black,
-.btn-outline-cyan-gray,
-.btn-outline-cyan-purple,
-.btn-outline-cyan-orange,
-.btn-outline-cyan-green,
-.btn-outline-cyan-yellow,
-.btn-outline-cyan-pink,
-.btn-outline-cyan-red,
-.btn-outline-cyan-cyan,
-.btn-outline-cyan-teal,
-.btn-outline-cyan-blue,
-.btn-outline-cyan-info,
-.btn-outline-cyan-error,
-.btn-outline-cyan-appBgDark,
-.btn-outline-cyan-appBg,
-.btn-outline-cyan-accentDark,
-.btn-outline-cyan-accentLight,
-.btn-outline-cyan-secondary,
-.btn-outline-cyan-primary,
-.btn-cyan-white,
-.btn-cyan-black,
-.btn-cyan-gray,
-.btn-cyan-purple,
-.btn-cyan-orange,
-.btn-cyan-green,
-.btn-cyan-yellow,
-.btn-cyan-pink,
-.btn-cyan-red,
-.btn-cyan-cyan,
-.btn-cyan-teal,
-.btn-cyan-blue,
-.btn-cyan-info,
-.btn-cyan-error,
-.btn-cyan-appBgDark,
-.btn-cyan-appBg,
-.btn-cyan-accentDark,
-.btn-cyan-accentLight,
-.btn-cyan-secondary,
-.btn-cyan-primary,
-.btn-outline-teal-white,
-.btn-outline-teal-black,
-.btn-outline-teal-gray,
-.btn-outline-teal-purple,
-.btn-outline-teal-orange,
-.btn-outline-teal-green,
-.btn-outline-teal-yellow,
-.btn-outline-teal-pink,
-.btn-outline-teal-red,
-.btn-outline-teal-cyan,
-.btn-outline-teal-teal,
-.btn-outline-teal-blue,
-.btn-outline-teal-info,
-.btn-outline-teal-error,
-.btn-outline-teal-appBgDark,
-.btn-outline-teal-appBg,
-.btn-outline-teal-accentDark,
-.btn-outline-teal-accentLight,
-.btn-outline-teal-secondary,
-.btn-outline-teal-primary,
-.btn-teal-white,
-.btn-teal-black,
-.btn-teal-gray,
-.btn-teal-purple,
-.btn-teal-orange,
-.btn-teal-green,
-.btn-teal-yellow,
-.btn-teal-pink,
-.btn-teal-red,
-.btn-teal-cyan,
-.btn-teal-teal,
-.btn-teal-blue,
-.btn-teal-info,
-.btn-teal-error,
-.btn-teal-appBgDark,
-.btn-teal-appBg,
-.btn-teal-accentDark,
-.btn-teal-accentLight,
-.btn-teal-secondary,
-.btn-teal-primary,
-.btn-outline-blue-white,
-.btn-outline-blue-black,
-.btn-outline-blue-gray,
-.btn-outline-blue-purple,
-.btn-outline-blue-orange,
-.btn-outline-blue-green,
-.btn-outline-blue-yellow,
-.btn-outline-blue-pink,
-.btn-outline-blue-red,
-.btn-outline-blue-cyan,
-.btn-outline-blue-teal,
-.btn-outline-blue-blue,
-.btn-outline-blue-info,
-.btn-outline-blue-error,
-.btn-outline-blue-appBgDark,
-.btn-outline-blue-appBg,
-.btn-outline-blue-accentDark,
-.btn-outline-blue-accentLight,
-.btn-outline-blue-secondary,
-.btn-outline-blue-primary,
-.btn-blue-white,
-.btn-blue-black,
-.btn-blue-gray,
-.btn-blue-purple,
-.btn-blue-orange,
-.btn-blue-green,
-.btn-blue-yellow,
-.btn-blue-pink,
-.btn-blue-red,
-.btn-blue-cyan,
-.btn-blue-teal,
-.btn-blue-blue,
-.btn-blue-info,
-.btn-blue-error,
-.btn-blue-appBgDark,
-.btn-blue-appBg,
-.btn-blue-accentDark,
-.btn-blue-accentLight,
-.btn-blue-secondary,
-.btn-blue-primary,
-.btn-outline-info-white,
-.btn-outline-info-black,
-.btn-outline-info-gray,
-.btn-outline-info-purple,
-.btn-outline-info-orange,
-.btn-outline-info-green,
-.btn-outline-info-yellow,
-.btn-outline-info-pink,
-.btn-outline-info-red,
-.btn-outline-info-cyan,
-.btn-outline-info-teal,
-.btn-outline-info-blue,
-.btn-outline-info-info,
-.btn-outline-info-error,
-.btn-outline-info-appBgDark,
-.btn-outline-info-appBg,
-.btn-outline-info-accentDark,
-.btn-outline-info-accentLight,
-.btn-outline-info-secondary,
-.btn-outline-info-primary,
-.btn-info-white,
-.btn-info-black,
-.btn-info-gray,
-.btn-info-purple,
-.btn-info-orange,
-.btn-info-green,
-.btn-info-yellow,
-.btn-info-pink,
-.btn-info-red,
-.btn-info-cyan,
-.btn-info-teal,
-.btn-info-blue,
-.btn-info-info,
-.btn-info-error,
-.btn-info-appBgDark,
-.btn-info-appBg,
-.btn-info-accentDark,
-.btn-info-accentLight,
-.btn-info-secondary,
-.btn-info-primary,
-.btn-outline-error-white,
-.btn-outline-error-black,
-.btn-outline-error-gray,
-.btn-outline-error-purple,
-.btn-outline-error-orange,
-.btn-outline-error-green,
-.btn-outline-error-yellow,
-.btn-outline-error-pink,
-.btn-outline-error-red,
-.btn-outline-error-cyan,
-.btn-outline-error-teal,
-.btn-outline-error-blue,
-.btn-outline-error-info,
-.btn-outline-error-error,
-.btn-outline-error-appBgDark,
-.btn-outline-error-appBg,
-.btn-outline-error-accentDark,
-.btn-outline-error-accentLight,
-.btn-outline-error-secondary,
-.btn-outline-error-primary,
-.btn-error-white,
-.btn-error-black,
-.btn-error-gray,
-.btn-error-purple,
-.btn-error-orange,
-.btn-error-green,
-.btn-error-yellow,
-.btn-error-pink,
-.btn-error-red,
-.btn-error-cyan,
-.btn-error-teal,
-.btn-error-blue,
-.btn-error-info,
-.btn-error-error,
-.btn-error-appBgDark,
-.btn-error-appBg,
-.btn-error-accentDark,
-.btn-error-accentLight,
-.btn-error-secondary,
-.btn-error-primary,
-.btn-outline-appBgDark-white,
-.btn-outline-appBgDark-black,
-.btn-outline-appBgDark-gray,
-.btn-outline-appBgDark-purple,
-.btn-outline-appBgDark-orange,
-.btn-outline-appBgDark-green,
-.btn-outline-appBgDark-yellow,
-.btn-outline-appBgDark-pink,
-.btn-outline-appBgDark-red,
-.btn-outline-appBgDark-cyan,
-.btn-outline-appBgDark-teal,
-.btn-outline-appBgDark-blue,
-.btn-outline-appBgDark-info,
-.btn-outline-appBgDark-error,
-.btn-outline-appBgDark-appBgDark,
-.btn-outline-appBgDark-appBg,
-.btn-outline-appBgDark-accentDark,
-.btn-outline-appBgDark-accentLight,
-.btn-outline-appBgDark-secondary,
-.btn-outline-appBgDark-primary,
-.btn-appBgDark-white,
-.btn-appBgDark-black,
-.btn-appBgDark-gray,
-.btn-appBgDark-purple,
-.btn-appBgDark-orange,
-.btn-appBgDark-green,
-.btn-appBgDark-yellow,
-.btn-appBgDark-pink,
-.btn-appBgDark-red,
-.btn-appBgDark-cyan,
-.btn-appBgDark-teal,
-.btn-appBgDark-blue,
-.btn-appBgDark-info,
-.btn-appBgDark-error,
-.btn-appBgDark-appBgDark,
-.btn-appBgDark-appBg,
-.btn-appBgDark-accentDark,
-.btn-appBgDark-accentLight,
-.btn-appBgDark-secondary,
-.btn-appBgDark-primary,
-.btn-outline-appBg-white,
-.btn-outline-appBg-black,
-.btn-outline-appBg-gray,
-.btn-outline-appBg-purple,
-.btn-outline-appBg-orange,
-.btn-outline-appBg-green,
-.btn-outline-appBg-yellow,
-.btn-outline-appBg-pink,
-.btn-outline-appBg-red,
-.btn-outline-appBg-cyan,
-.btn-outline-appBg-teal,
-.btn-outline-appBg-blue,
-.btn-outline-appBg-info,
-.btn-outline-appBg-error,
-.btn-outline-appBg-appBgDark,
-.btn-outline-appBg-appBg,
-.btn-outline-appBg-accentDark,
-.btn-outline-appBg-accentLight,
-.btn-outline-appBg-secondary,
-.btn-outline-appBg-primary,
-.btn-appBg-white,
-.btn-appBg-black,
-.btn-appBg-gray,
-.btn-appBg-purple,
-.btn-appBg-orange,
-.btn-appBg-green,
-.btn-appBg-yellow,
-.btn-appBg-pink,
-.btn-appBg-red,
-.btn-appBg-cyan,
-.btn-appBg-teal,
-.btn-appBg-blue,
-.btn-appBg-info,
-.btn-appBg-error,
-.btn-appBg-appBgDark,
-.btn-appBg-appBg,
-.btn-appBg-accentDark,
-.btn-appBg-accentLight,
-.btn-appBg-secondary,
-.btn-appBg-primary,
-.btn-outline-accentDark-white,
-.btn-outline-accentDark-black,
-.btn-outline-accentDark-gray,
-.btn-outline-accentDark-purple,
-.btn-outline-accentDark-orange,
-.btn-outline-accentDark-green,
-.btn-outline-accentDark-yellow,
-.btn-outline-accentDark-pink,
-.btn-outline-accentDark-red,
-.btn-outline-accentDark-cyan,
-.btn-outline-accentDark-teal,
-.btn-outline-accentDark-blue,
-.btn-outline-accentDark-info,
-.btn-outline-accentDark-error,
-.btn-outline-accentDark-appBgDark,
-.btn-outline-accentDark-appBg,
-.btn-outline-accentDark-accentDark,
-.btn-outline-accentDark-accentLight,
-.btn-outline-accentDark-secondary,
-.btn-outline-accentDark-primary,
-.btn-accentDark-white,
-.btn-accentDark-black,
-.btn-accentDark-gray,
-.btn-accentDark-purple,
-.btn-accentDark-orange,
-.btn-accentDark-green,
-.btn-accentDark-yellow,
-.btn-accentDark-pink,
-.btn-accentDark-red,
-.btn-accentDark-cyan,
-.btn-accentDark-teal,
-.btn-accentDark-blue,
-.btn-accentDark-info,
-.btn-accentDark-error,
-.btn-accentDark-appBgDark,
-.btn-accentDark-appBg,
-.btn-accentDark-accentDark,
-.btn-accentDark-accentLight,
-.btn-accentDark-secondary,
-.btn-accentDark-primary,
-.btn-outline-accentLight-white,
-.btn-outline-accentLight-black,
-.btn-outline-accentLight-gray,
-.btn-outline-accentLight-purple,
-.btn-outline-accentLight-orange,
-.btn-outline-accentLight-green,
-.btn-outline-accentLight-yellow,
-.btn-outline-accentLight-pink,
-.btn-outline-accentLight-red,
-.btn-outline-accentLight-cyan,
-.btn-outline-accentLight-teal,
-.btn-outline-accentLight-blue,
-.btn-outline-accentLight-info,
-.btn-outline-accentLight-error,
-.btn-outline-accentLight-appBgDark,
-.btn-outline-accentLight-appBg,
-.btn-outline-accentLight-accentDark,
-.btn-outline-accentLight-accentLight,
-.btn-outline-accentLight-secondary,
-.btn-outline-accentLight-primary,
-.btn-accentLight-white,
-.btn-accentLight-black,
-.btn-accentLight-gray,
-.btn-accentLight-purple,
-.btn-accentLight-orange,
-.btn-accentLight-green,
-.btn-accentLight-yellow,
-.btn-accentLight-pink,
-.btn-accentLight-red,
-.btn-accentLight-cyan,
-.btn-accentLight-teal,
-.btn-accentLight-blue,
-.btn-accentLight-info,
-.btn-accentLight-error,
-.btn-accentLight-appBgDark,
-.btn-accentLight-appBg,
-.btn-accentLight-accentDark,
-.btn-accentLight-accentLight,
-.btn-accentLight-secondary,
-.btn-accentLight-primary,
-.btn-outline-secondary-white,
-.btn-outline-secondary-black,
-.btn-outline-secondary-gray,
-.btn-outline-secondary-purple,
-.btn-outline-secondary-orange,
-.btn-outline-secondary-green,
-.btn-outline-secondary-yellow,
-.btn-outline-secondary-pink,
-.btn-outline-secondary-red,
-.btn-outline-secondary-cyan,
-.btn-outline-secondary-teal,
-.btn-outline-secondary-blue,
-.btn-outline-secondary-info,
-.btn-outline-secondary-error,
-.btn-outline-secondary-appBgDark,
-.btn-outline-secondary-appBg,
-.btn-outline-secondary-accentDark,
-.btn-outline-secondary-accentLight,
-.btn-outline-secondary-secondary,
-.btn-outline-secondary-primary,
-.btn-secondary-white,
-.btn-secondary-black,
-.btn-secondary-gray,
-.btn-secondary-purple,
-.btn-secondary-orange,
-.btn-secondary-green,
-.btn-secondary-yellow,
-.btn-secondary-pink,
-.btn-secondary-red,
-.btn-secondary-cyan,
-.btn-secondary-teal,
-.btn-secondary-blue,
-.btn-secondary-info,
-.btn-secondary-error,
-.btn-secondary-appBgDark,
-.btn-secondary-appBg,
-.btn-secondary-accentDark,
-.btn-secondary-accentLight,
-.btn-secondary-secondary,
-.btn-secondary-primary,
-.btn-outline-primary-white,
-.btn-outline-primary-black,
-.btn-outline-primary-gray,
-.btn-outline-primary-purple,
-.btn-outline-primary-orange,
-.btn-outline-primary-green,
-.btn-outline-primary-yellow,
-.btn-outline-primary-pink,
-.btn-outline-primary-red,
-.btn-outline-primary-cyan,
-.btn-outline-primary-teal,
-.btn-outline-primary-blue,
-.btn-outline-primary-info,
-.btn-outline-primary-error,
-.btn-outline-primary-appBgDark,
-.btn-outline-primary-appBg,
-.btn-outline-primary-accentDark,
-.btn-outline-primary-accentLight,
-.btn-outline-primary-secondary,
-.btn-outline-primary-primary,
-.btn-primary-white,
-.btn-primary-black,
-.btn-primary-gray,
-.btn-primary-purple,
-.btn-primary-orange,
-.btn-primary-green,
-.btn-primary-yellow,
-.btn-primary-pink,
-.btn-primary-red,
-.btn-primary-cyan,
-.btn-primary-teal,
-.btn-primary-blue,
-.btn-primary-info,
-.btn-primary-error,
-.btn-primary-appBgDark,
-.btn-primary-appBg,
-.btn-primary-accentDark,
-.btn-primary-accentLight,
-.btn-primary-secondary,
-.btn-primary-primary {
+.btn, .btn-outline-white-white, .btn-outline-white-black, .btn-outline-white-gray, .btn-outline-white-purple, .btn-outline-white-orange, .btn-outline-white-green, .btn-outline-white-yellow, .btn-outline-white-pink, .btn-outline-white-red, .btn-outline-white-cyan, .btn-outline-white-teal, .btn-outline-white-blue, .btn-outline-white-info, .btn-outline-white-error, .btn-outline-white-appBgDark, .btn-outline-white-appBg, .btn-outline-white-accentDark, .btn-outline-white-accentLight, .btn-outline-white-secondary, .btn-outline-white-primary, .btn-white-white, .btn-white-black, .btn-white-gray, .btn-white-purple, .btn-white-orange, .btn-white-green, .btn-white-yellow, .btn-white-pink, .btn-white-red, .btn-white-cyan, .btn-white-teal, .btn-white-blue, .btn-white-info, .btn-white-error, .btn-white-appBgDark, .btn-white-appBg, .btn-white-accentDark, .btn-white-accentLight, .btn-white-secondary, .btn-white-primary, .btn-outline-black-white, .btn-outline-black-black, .btn-outline-black-gray, .btn-outline-black-purple, .btn-outline-black-orange, .btn-outline-black-green, .btn-outline-black-yellow, .btn-outline-black-pink, .btn-outline-black-red, .btn-outline-black-cyan, .btn-outline-black-teal, .btn-outline-black-blue, .btn-outline-black-info, .btn-outline-black-error, .btn-outline-black-appBgDark, .btn-outline-black-appBg, .btn-outline-black-accentDark, .btn-outline-black-accentLight, .btn-outline-black-secondary, .btn-outline-black-primary, .btn-black-white, .btn-black-black, .btn-black-gray, .btn-black-purple, .btn-black-orange, .btn-black-green, .btn-black-yellow, .btn-black-pink, .btn-black-red, .btn-black-cyan, .btn-black-teal, .btn-black-blue, .btn-black-info, .btn-black-error, .btn-black-appBgDark, .btn-black-appBg, .btn-black-accentDark, .btn-black-accentLight, .btn-black-secondary, .btn-black-primary, .btn-outline-gray-white, .btn-outline-gray-black, .btn-outline-gray-gray, .btn-outline-gray-purple, .btn-outline-gray-orange, .btn-outline-gray-green, .btn-outline-gray-yellow, .btn-outline-gray-pink, .btn-outline-gray-red, .btn-outline-gray-cyan, .btn-outline-gray-teal, .btn-outline-gray-blue, .btn-outline-gray-info, .btn-outline-gray-error, .btn-outline-gray-appBgDark, .btn-outline-gray-appBg, .btn-outline-gray-accentDark, .btn-outline-gray-accentLight, .btn-outline-gray-secondary, .btn-outline-gray-primary, .btn-gray-white, .btn-gray-black, .btn-gray-gray, .btn-gray-purple, .btn-gray-orange, .btn-gray-green, .btn-gray-yellow, .btn-gray-pink, .btn-gray-red, .btn-gray-cyan, .btn-gray-teal, .btn-gray-blue, .btn-gray-info, .btn-gray-error, .btn-gray-appBgDark, .btn-gray-appBg, .btn-gray-accentDark, .btn-gray-accentLight, .btn-gray-secondary, .btn-gray-primary, .btn-outline-purple-white, .btn-outline-purple-black, .btn-outline-purple-gray, .btn-outline-purple-purple, .btn-outline-purple-orange, .btn-outline-purple-green, .btn-outline-purple-yellow, .btn-outline-purple-pink, .btn-outline-purple-red, .btn-outline-purple-cyan, .btn-outline-purple-teal, .btn-outline-purple-blue, .btn-outline-purple-info, .btn-outline-purple-error, .btn-outline-purple-appBgDark, .btn-outline-purple-appBg, .btn-outline-purple-accentDark, .btn-outline-purple-accentLight, .btn-outline-purple-secondary, .btn-outline-purple-primary, .btn-purple-white, .btn-purple-black, .btn-purple-gray, .btn-purple-purple, .btn-purple-orange, .btn-purple-green, .btn-purple-yellow, .btn-purple-pink, .btn-purple-red, .btn-purple-cyan, .btn-purple-teal, .btn-purple-blue, .btn-purple-info, .btn-purple-error, .btn-purple-appBgDark, .btn-purple-appBg, .btn-purple-accentDark, .btn-purple-accentLight, .btn-purple-secondary, .btn-purple-primary, .btn-outline-orange-white, .btn-outline-orange-black, .btn-outline-orange-gray, .btn-outline-orange-purple, .btn-outline-orange-orange, .btn-outline-orange-green, .btn-outline-orange-yellow, .btn-outline-orange-pink, .btn-outline-orange-red, .btn-outline-orange-cyan, .btn-outline-orange-teal, .btn-outline-orange-blue, .btn-outline-orange-info, .btn-outline-orange-error, .btn-outline-orange-appBgDark, .btn-outline-orange-appBg, .btn-outline-orange-accentDark, .btn-outline-orange-accentLight, .btn-outline-orange-secondary, .btn-outline-orange-primary, .btn-orange-white, .btn-orange-black, .btn-orange-gray, .btn-orange-purple, .btn-orange-orange, .btn-orange-green, .btn-orange-yellow, .btn-orange-pink, .btn-orange-red, .btn-orange-cyan, .btn-orange-teal, .btn-orange-blue, .btn-orange-info, .btn-orange-error, .btn-orange-appBgDark, .btn-orange-appBg, .btn-orange-accentDark, .btn-orange-accentLight, .btn-orange-secondary, .btn-orange-primary, .btn-outline-green-white, .btn-outline-green-black, .btn-outline-green-gray, .btn-outline-green-purple, .btn-outline-green-orange, .btn-outline-green-green, .btn-outline-green-yellow, .btn-outline-green-pink, .btn-outline-green-red, .btn-outline-green-cyan, .btn-outline-green-teal, .btn-outline-green-blue, .btn-outline-green-info, .btn-outline-green-error, .btn-outline-green-appBgDark, .btn-outline-green-appBg, .btn-outline-green-accentDark, .btn-outline-green-accentLight, .btn-outline-green-secondary, .btn-outline-green-primary, .btn-green-white, .btn-green-black, .btn-green-gray, .btn-green-purple, .btn-green-orange, .btn-green-green, .btn-green-yellow, .btn-green-pink, .btn-green-red, .btn-green-cyan, .btn-green-teal, .btn-green-blue, .btn-green-info, .btn-green-error, .btn-green-appBgDark, .btn-green-appBg, .btn-green-accentDark, .btn-green-accentLight, .btn-green-secondary, .btn-green-primary, .btn-outline-yellow-white, .btn-outline-yellow-black, .btn-outline-yellow-gray, .btn-outline-yellow-purple, .btn-outline-yellow-orange, .btn-outline-yellow-green, .btn-outline-yellow-yellow, .btn-outline-yellow-pink, .btn-outline-yellow-red, .btn-outline-yellow-cyan, .btn-outline-yellow-teal, .btn-outline-yellow-blue, .btn-outline-yellow-info, .btn-outline-yellow-error, .btn-outline-yellow-appBgDark, .btn-outline-yellow-appBg, .btn-outline-yellow-accentDark, .btn-outline-yellow-accentLight, .btn-outline-yellow-secondary, .btn-outline-yellow-primary, .btn-yellow-white, .btn-yellow-black, .btn-yellow-gray, .btn-yellow-purple, .btn-yellow-orange, .btn-yellow-green, .btn-yellow-yellow, .btn-yellow-pink, .btn-yellow-red, .btn-yellow-cyan, .btn-yellow-teal, .btn-yellow-blue, .btn-yellow-info, .btn-yellow-error, .btn-yellow-appBgDark, .btn-yellow-appBg, .btn-yellow-accentDark, .btn-yellow-accentLight, .btn-yellow-secondary, .btn-yellow-primary, .btn-outline-pink-white, .btn-outline-pink-black, .btn-outline-pink-gray, .btn-outline-pink-purple, .btn-outline-pink-orange, .btn-outline-pink-green, .btn-outline-pink-yellow, .btn-outline-pink-pink, .btn-outline-pink-red, .btn-outline-pink-cyan, .btn-outline-pink-teal, .btn-outline-pink-blue, .btn-outline-pink-info, .btn-outline-pink-error, .btn-outline-pink-appBgDark, .btn-outline-pink-appBg, .btn-outline-pink-accentDark, .btn-outline-pink-accentLight, .btn-outline-pink-secondary, .btn-outline-pink-primary, .btn-pink-white, .btn-pink-black, .btn-pink-gray, .btn-pink-purple, .btn-pink-orange, .btn-pink-green, .btn-pink-yellow, .btn-pink-pink, .btn-pink-red, .btn-pink-cyan, .btn-pink-teal, .btn-pink-blue, .btn-pink-info, .btn-pink-error, .btn-pink-appBgDark, .btn-pink-appBg, .btn-pink-accentDark, .btn-pink-accentLight, .btn-pink-secondary, .btn-pink-primary, .btn-outline-red-white, .btn-outline-red-black, .btn-outline-red-gray, .btn-outline-red-purple, .btn-outline-red-orange, .btn-outline-red-green, .btn-outline-red-yellow, .btn-outline-red-pink, .btn-outline-red-red, .btn-outline-red-cyan, .btn-outline-red-teal, .btn-outline-red-blue, .btn-outline-red-info, .btn-outline-red-error, .btn-outline-red-appBgDark, .btn-outline-red-appBg, .btn-outline-red-accentDark, .btn-outline-red-accentLight, .btn-outline-red-secondary, .btn-outline-red-primary, .btn-red-white, .btn-red-black, .btn-red-gray, .btn-red-purple, .btn-red-orange, .btn-red-green, .btn-red-yellow, .btn-red-pink, .btn-red-red, .btn-red-cyan, .btn-red-teal, .btn-red-blue, .btn-red-info, .btn-red-error, .btn-red-appBgDark, .btn-red-appBg, .btn-red-accentDark, .btn-red-accentLight, .btn-red-secondary, .btn-red-primary, .btn-outline-cyan-white, .btn-outline-cyan-black, .btn-outline-cyan-gray, .btn-outline-cyan-purple, .btn-outline-cyan-orange, .btn-outline-cyan-green, .btn-outline-cyan-yellow, .btn-outline-cyan-pink, .btn-outline-cyan-red, .btn-outline-cyan-cyan, .btn-outline-cyan-teal, .btn-outline-cyan-blue, .btn-outline-cyan-info, .btn-outline-cyan-error, .btn-outline-cyan-appBgDark, .btn-outline-cyan-appBg, .btn-outline-cyan-accentDark, .btn-outline-cyan-accentLight, .btn-outline-cyan-secondary, .btn-outline-cyan-primary, .btn-cyan-white, .btn-cyan-black, .btn-cyan-gray, .btn-cyan-purple, .btn-cyan-orange, .btn-cyan-green, .btn-cyan-yellow, .btn-cyan-pink, .btn-cyan-red, .btn-cyan-cyan, .btn-cyan-teal, .btn-cyan-blue, .btn-cyan-info, .btn-cyan-error, .btn-cyan-appBgDark, .btn-cyan-appBg, .btn-cyan-accentDark, .btn-cyan-accentLight, .btn-cyan-secondary, .btn-cyan-primary, .btn-outline-teal-white, .btn-outline-teal-black, .btn-outline-teal-gray, .btn-outline-teal-purple, .btn-outline-teal-orange, .btn-outline-teal-green, .btn-outline-teal-yellow, .btn-outline-teal-pink, .btn-outline-teal-red, .btn-outline-teal-cyan, .btn-outline-teal-teal, .btn-outline-teal-blue, .btn-outline-teal-info, .btn-outline-teal-error, .btn-outline-teal-appBgDark, .btn-outline-teal-appBg, .btn-outline-teal-accentDark, .btn-outline-teal-accentLight, .btn-outline-teal-secondary, .btn-outline-teal-primary, .btn-teal-white, .btn-teal-black, .btn-teal-gray, .btn-teal-purple, .btn-teal-orange, .btn-teal-green, .btn-teal-yellow, .btn-teal-pink, .btn-teal-red, .btn-teal-cyan, .btn-teal-teal, .btn-teal-blue, .btn-teal-info, .btn-teal-error, .btn-teal-appBgDark, .btn-teal-appBg, .btn-teal-accentDark, .btn-teal-accentLight, .btn-teal-secondary, .btn-teal-primary, .btn-outline-blue-white, .btn-outline-blue-black, .btn-outline-blue-gray, .btn-outline-blue-purple, .btn-outline-blue-orange, .btn-outline-blue-green, .btn-outline-blue-yellow, .btn-outline-blue-pink, .btn-outline-blue-red, .btn-outline-blue-cyan, .btn-outline-blue-teal, .btn-outline-blue-blue, .btn-outline-blue-info, .btn-outline-blue-error, .btn-outline-blue-appBgDark, .btn-outline-blue-appBg, .btn-outline-blue-accentDark, .btn-outline-blue-accentLight, .btn-outline-blue-secondary, .btn-outline-blue-primary, .btn-blue-white, .btn-blue-black, .btn-blue-gray, .btn-blue-purple, .btn-blue-orange, .btn-blue-green, .btn-blue-yellow, .btn-blue-pink, .btn-blue-red, .btn-blue-cyan, .btn-blue-teal, .btn-blue-blue, .btn-blue-info, .btn-blue-error, .btn-blue-appBgDark, .btn-blue-appBg, .btn-blue-accentDark, .btn-blue-accentLight, .btn-blue-secondary, .btn-blue-primary, .btn-outline-info-white, .btn-outline-info-black, .btn-outline-info-gray, .btn-outline-info-purple, .btn-outline-info-orange, .btn-outline-info-green, .btn-outline-info-yellow, .btn-outline-info-pink, .btn-outline-info-red, .btn-outline-info-cyan, .btn-outline-info-teal, .btn-outline-info-blue, .btn-outline-info-info, .btn-outline-info-error, .btn-outline-info-appBgDark, .btn-outline-info-appBg, .btn-outline-info-accentDark, .btn-outline-info-accentLight, .btn-outline-info-secondary, .btn-outline-info-primary, .btn-info-white, .btn-info-black, .btn-info-gray, .btn-info-purple, .btn-info-orange, .btn-info-green, .btn-info-yellow, .btn-info-pink, .btn-info-red, .btn-info-cyan, .btn-info-teal, .btn-info-blue, .btn-info-info, .btn-info-error, .btn-info-appBgDark, .btn-info-appBg, .btn-info-accentDark, .btn-info-accentLight, .btn-info-secondary, .btn-info-primary, .btn-outline-error-white, .btn-outline-error-black, .btn-outline-error-gray, .btn-outline-error-purple, .btn-outline-error-orange, .btn-outline-error-green, .btn-outline-error-yellow, .btn-outline-error-pink, .btn-outline-error-red, .btn-outline-error-cyan, .btn-outline-error-teal, .btn-outline-error-blue, .btn-outline-error-info, .btn-outline-error-error, .btn-outline-error-appBgDark, .btn-outline-error-appBg, .btn-outline-error-accentDark, .btn-outline-error-accentLight, .btn-outline-error-secondary, .btn-outline-error-primary, .btn-error-white, .btn-error-black, .btn-error-gray, .btn-error-purple, .btn-error-orange, .btn-error-green, .btn-error-yellow, .btn-error-pink, .btn-error-red, .btn-error-cyan, .btn-error-teal, .btn-error-blue, .btn-error-info, .btn-error-error, .btn-error-appBgDark, .btn-error-appBg, .btn-error-accentDark, .btn-error-accentLight, .btn-error-secondary, .btn-error-primary, .btn-outline-appBgDark-white, .btn-outline-appBgDark-black, .btn-outline-appBgDark-gray, .btn-outline-appBgDark-purple, .btn-outline-appBgDark-orange, .btn-outline-appBgDark-green, .btn-outline-appBgDark-yellow, .btn-outline-appBgDark-pink, .btn-outline-appBgDark-red, .btn-outline-appBgDark-cyan, .btn-outline-appBgDark-teal, .btn-outline-appBgDark-blue, .btn-outline-appBgDark-info, .btn-outline-appBgDark-error, .btn-outline-appBgDark-appBgDark, .btn-outline-appBgDark-appBg, .btn-outline-appBgDark-accentDark, .btn-outline-appBgDark-accentLight, .btn-outline-appBgDark-secondary, .btn-outline-appBgDark-primary, .btn-appBgDark-white, .btn-appBgDark-black, .btn-appBgDark-gray, .btn-appBgDark-purple, .btn-appBgDark-orange, .btn-appBgDark-green, .btn-appBgDark-yellow, .btn-appBgDark-pink, .btn-appBgDark-red, .btn-appBgDark-cyan, .btn-appBgDark-teal, .btn-appBgDark-blue, .btn-appBgDark-info, .btn-appBgDark-error, .btn-appBgDark-appBgDark, .btn-appBgDark-appBg, .btn-appBgDark-accentDark, .btn-appBgDark-accentLight, .btn-appBgDark-secondary, .btn-appBgDark-primary, .btn-outline-appBg-white, .btn-outline-appBg-black, .btn-outline-appBg-gray, .btn-outline-appBg-purple, .btn-outline-appBg-orange, .btn-outline-appBg-green, .btn-outline-appBg-yellow, .btn-outline-appBg-pink, .btn-outline-appBg-red, .btn-outline-appBg-cyan, .btn-outline-appBg-teal, .btn-outline-appBg-blue, .btn-outline-appBg-info, .btn-outline-appBg-error, .btn-outline-appBg-appBgDark, .btn-outline-appBg-appBg, .btn-outline-appBg-accentDark, .btn-outline-appBg-accentLight, .btn-outline-appBg-secondary, .btn-outline-appBg-primary, .btn-appBg-white, .btn-appBg-black, .btn-appBg-gray, .btn-appBg-purple, .btn-appBg-orange, .btn-appBg-green, .btn-appBg-yellow, .btn-appBg-pink, .btn-appBg-red, .btn-appBg-cyan, .btn-appBg-teal, .btn-appBg-blue, .btn-appBg-info, .btn-appBg-error, .btn-appBg-appBgDark, .btn-appBg-appBg, .btn-appBg-accentDark, .btn-appBg-accentLight, .btn-appBg-secondary, .btn-appBg-primary, .btn-outline-accentDark-white, .btn-outline-accentDark-black, .btn-outline-accentDark-gray, .btn-outline-accentDark-purple, .btn-outline-accentDark-orange, .btn-outline-accentDark-green, .btn-outline-accentDark-yellow, .btn-outline-accentDark-pink, .btn-outline-accentDark-red, .btn-outline-accentDark-cyan, .btn-outline-accentDark-teal, .btn-outline-accentDark-blue, .btn-outline-accentDark-info, .btn-outline-accentDark-error, .btn-outline-accentDark-appBgDark, .btn-outline-accentDark-appBg, .btn-outline-accentDark-accentDark, .btn-outline-accentDark-accentLight, .btn-outline-accentDark-secondary, .btn-outline-accentDark-primary, .btn-accentDark-white, .btn-accentDark-black, .btn-accentDark-gray, .btn-accentDark-purple, .btn-accentDark-orange, .btn-accentDark-green, .btn-accentDark-yellow, .btn-accentDark-pink, .btn-accentDark-red, .btn-accentDark-cyan, .btn-accentDark-teal, .btn-accentDark-blue, .btn-accentDark-info, .btn-accentDark-error, .btn-accentDark-appBgDark, .btn-accentDark-appBg, .btn-accentDark-accentDark, .btn-accentDark-accentLight, .btn-accentDark-secondary, .btn-accentDark-primary, .btn-outline-accentLight-white, .btn-outline-accentLight-black, .btn-outline-accentLight-gray, .btn-outline-accentLight-purple, .btn-outline-accentLight-orange, .btn-outline-accentLight-green, .btn-outline-accentLight-yellow, .btn-outline-accentLight-pink, .btn-outline-accentLight-red, .btn-outline-accentLight-cyan, .btn-outline-accentLight-teal, .btn-outline-accentLight-blue, .btn-outline-accentLight-info, .btn-outline-accentLight-error, .btn-outline-accentLight-appBgDark, .btn-outline-accentLight-appBg, .btn-outline-accentLight-accentDark, .btn-outline-accentLight-accentLight, .btn-outline-accentLight-secondary, .btn-outline-accentLight-primary, .btn-accentLight-white, .btn-accentLight-black, .btn-accentLight-gray, .btn-accentLight-purple, .btn-accentLight-orange, .btn-accentLight-green, .btn-accentLight-yellow, .btn-accentLight-pink, .btn-accentLight-red, .btn-accentLight-cyan, .btn-accentLight-teal, .btn-accentLight-blue, .btn-accentLight-info, .btn-accentLight-error, .btn-accentLight-appBgDark, .btn-accentLight-appBg, .btn-accentLight-accentDark, .btn-accentLight-accentLight, .btn-accentLight-secondary, .btn-accentLight-primary, .btn-outline-secondary-white, .btn-outline-secondary-black, .btn-outline-secondary-gray, .btn-outline-secondary-purple, .btn-outline-secondary-orange, .btn-outline-secondary-green, .btn-outline-secondary-yellow, .btn-outline-secondary-pink, .btn-outline-secondary-red, .btn-outline-secondary-cyan, .btn-outline-secondary-teal, .btn-outline-secondary-blue, .btn-outline-secondary-info, .btn-outline-secondary-error, .btn-outline-secondary-appBgDark, .btn-outline-secondary-appBg, .btn-outline-secondary-accentDark, .btn-outline-secondary-accentLight, .btn-outline-secondary-secondary, .btn-outline-secondary-primary, .btn-secondary-white, .btn-secondary-black, .btn-secondary-gray, .btn-secondary-purple, .btn-secondary-orange, .btn-secondary-green, .btn-secondary-yellow, .btn-secondary-pink, .btn-secondary-red, .btn-secondary-cyan, .btn-secondary-teal, .btn-secondary-blue, .btn-secondary-info, .btn-secondary-error, .btn-secondary-appBgDark, .btn-secondary-appBg, .btn-secondary-accentDark, .btn-secondary-accentLight, .btn-secondary-secondary, .btn-secondary-primary, .btn-outline-primary-white, .btn-outline-primary-black, .btn-outline-primary-gray, .btn-outline-primary-purple, .btn-outline-primary-orange, .btn-outline-primary-green, .btn-outline-primary-yellow, .btn-outline-primary-pink, .btn-outline-primary-red, .btn-outline-primary-cyan, .btn-outline-primary-teal, .btn-outline-primary-blue, .btn-outline-primary-info, .btn-outline-primary-error, .btn-outline-primary-appBgDark, .btn-outline-primary-appBg, .btn-outline-primary-accentDark, .btn-outline-primary-accentLight, .btn-outline-primary-secondary, .btn-outline-primary-primary, .btn-primary-white, .btn-primary-black, .btn-primary-gray, .btn-primary-purple, .btn-primary-orange, .btn-primary-green, .btn-primary-yellow, .btn-primary-pink, .btn-primary-red, .btn-primary-cyan, .btn-primary-teal, .btn-primary-blue, .btn-primary-info, .btn-primary-error, .btn-primary-appBgDark, .btn-primary-appBg, .btn-primary-accentDark, .btn-primary-accentLight, .btn-primary-secondary, .btn-primary-primary {
   text-decoration: none;
   cursor: pointer;
   display: inline-block;
@@ -15138,46 +14338,6 @@ img {
   margin-bottom: 5rem;
 }
 
-.o-10 {
-  opacity: 0.1;
-}
-
-.o-20 {
-  opacity: 0.2;
-}
-
-.o-30 {
-  opacity: 0.3;
-}
-
-.o-40 {
-  opacity: 0.4;
-}
-
-.o-50 {
-  opacity: 0.5;
-}
-
-.o-60 {
-  opacity: 0.6;
-}
-
-.o-70 {
-  opacity: 0.7;
-}
-
-.o-80 {
-  opacity: 0.8;
-}
-
-.o-90 {
-  opacity: 0.9;
-}
-
-.o-100 {
-  opacity: 1;
-}
-
 .br {
   border-radius: 20px;
 }
@@ -15284,6 +14444,806 @@ img {
 
 .z-10k {
   z-index: 10000;
+}
+
+.o-1 {
+  opacity: 0.01;
+}
+
+.w-1 {
+  width: 1%;
+}
+
+.o-2 {
+  opacity: 0.02;
+}
+
+.w-2 {
+  width: 2%;
+}
+
+.o-3 {
+  opacity: 0.03;
+}
+
+.w-3 {
+  width: 3%;
+}
+
+.o-4 {
+  opacity: 0.04;
+}
+
+.w-4 {
+  width: 4%;
+}
+
+.o-5 {
+  opacity: 0.05;
+}
+
+.w-5 {
+  width: 5%;
+}
+
+.o-6 {
+  opacity: 0.06;
+}
+
+.w-6 {
+  width: 6%;
+}
+
+.o-7 {
+  opacity: 0.07;
+}
+
+.w-7 {
+  width: 7%;
+}
+
+.o-8 {
+  opacity: 0.08;
+}
+
+.w-8 {
+  width: 8%;
+}
+
+.o-9 {
+  opacity: 0.09;
+}
+
+.w-9 {
+  width: 9%;
+}
+
+.o-10 {
+  opacity: 0.1;
+}
+
+.w-10 {
+  width: 10%;
+}
+
+.o-11 {
+  opacity: 0.11;
+}
+
+.w-11 {
+  width: 11%;
+}
+
+.o-12 {
+  opacity: 0.12;
+}
+
+.w-12 {
+  width: 12%;
+}
+
+.o-13 {
+  opacity: 0.13;
+}
+
+.w-13 {
+  width: 13%;
+}
+
+.o-14 {
+  opacity: 0.14;
+}
+
+.w-14 {
+  width: 14%;
+}
+
+.o-15 {
+  opacity: 0.15;
+}
+
+.w-15 {
+  width: 15%;
+}
+
+.o-16 {
+  opacity: 0.16;
+}
+
+.w-16 {
+  width: 16%;
+}
+
+.o-17 {
+  opacity: 0.17;
+}
+
+.w-17 {
+  width: 17%;
+}
+
+.o-18 {
+  opacity: 0.18;
+}
+
+.w-18 {
+  width: 18%;
+}
+
+.o-19 {
+  opacity: 0.19;
+}
+
+.w-19 {
+  width: 19%;
+}
+
+.o-20 {
+  opacity: 0.2;
+}
+
+.w-20 {
+  width: 20%;
+}
+
+.o-21 {
+  opacity: 0.21;
+}
+
+.w-21 {
+  width: 21%;
+}
+
+.o-22 {
+  opacity: 0.22;
+}
+
+.w-22 {
+  width: 22%;
+}
+
+.o-23 {
+  opacity: 0.23;
+}
+
+.w-23 {
+  width: 23%;
+}
+
+.o-24 {
+  opacity: 0.24;
+}
+
+.w-24 {
+  width: 24%;
+}
+
+.o-25 {
+  opacity: 0.25;
+}
+
+.w-25 {
+  width: 25%;
+}
+
+.o-26 {
+  opacity: 0.26;
+}
+
+.w-26 {
+  width: 26%;
+}
+
+.o-27 {
+  opacity: 0.27;
+}
+
+.w-27 {
+  width: 27%;
+}
+
+.o-28 {
+  opacity: 0.28;
+}
+
+.w-28 {
+  width: 28%;
+}
+
+.o-29 {
+  opacity: 0.29;
+}
+
+.w-29 {
+  width: 29%;
+}
+
+.o-30 {
+  opacity: 0.3;
+}
+
+.w-30 {
+  width: 30%;
+}
+
+.o-31 {
+  opacity: 0.31;
+}
+
+.w-31 {
+  width: 31%;
+}
+
+.o-32 {
+  opacity: 0.32;
+}
+
+.w-32 {
+  width: 32%;
+}
+
+.o-33 {
+  opacity: 0.33;
+}
+
+.w-33 {
+  width: 33%;
+}
+
+.o-34 {
+  opacity: 0.34;
+}
+
+.w-34 {
+  width: 34%;
+}
+
+.o-35 {
+  opacity: 0.35;
+}
+
+.w-35 {
+  width: 35%;
+}
+
+.o-36 {
+  opacity: 0.36;
+}
+
+.w-36 {
+  width: 36%;
+}
+
+.o-37 {
+  opacity: 0.37;
+}
+
+.w-37 {
+  width: 37%;
+}
+
+.o-38 {
+  opacity: 0.38;
+}
+
+.w-38 {
+  width: 38%;
+}
+
+.o-39 {
+  opacity: 0.39;
+}
+
+.w-39 {
+  width: 39%;
+}
+
+.o-40 {
+  opacity: 0.4;
+}
+
+.w-40 {
+  width: 40%;
+}
+
+.o-41 {
+  opacity: 0.41;
+}
+
+.w-41 {
+  width: 41%;
+}
+
+.o-42 {
+  opacity: 0.42;
+}
+
+.w-42 {
+  width: 42%;
+}
+
+.o-43 {
+  opacity: 0.43;
+}
+
+.w-43 {
+  width: 43%;
+}
+
+.o-44 {
+  opacity: 0.44;
+}
+
+.w-44 {
+  width: 44%;
+}
+
+.o-45 {
+  opacity: 0.45;
+}
+
+.w-45 {
+  width: 45%;
+}
+
+.o-46 {
+  opacity: 0.46;
+}
+
+.w-46 {
+  width: 46%;
+}
+
+.o-47 {
+  opacity: 0.47;
+}
+
+.w-47 {
+  width: 47%;
+}
+
+.o-48 {
+  opacity: 0.48;
+}
+
+.w-48 {
+  width: 48%;
+}
+
+.o-49 {
+  opacity: 0.49;
+}
+
+.w-49 {
+  width: 49%;
+}
+
+.o-50 {
+  opacity: 0.5;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.o-51 {
+  opacity: 0.51;
+}
+
+.w-51 {
+  width: 51%;
+}
+
+.o-52 {
+  opacity: 0.52;
+}
+
+.w-52 {
+  width: 52%;
+}
+
+.o-53 {
+  opacity: 0.53;
+}
+
+.w-53 {
+  width: 53%;
+}
+
+.o-54 {
+  opacity: 0.54;
+}
+
+.w-54 {
+  width: 54%;
+}
+
+.o-55 {
+  opacity: 0.55;
+}
+
+.w-55 {
+  width: 55%;
+}
+
+.o-56 {
+  opacity: 0.56;
+}
+
+.w-56 {
+  width: 56%;
+}
+
+.o-57 {
+  opacity: 0.57;
+}
+
+.w-57 {
+  width: 57%;
+}
+
+.o-58 {
+  opacity: 0.58;
+}
+
+.w-58 {
+  width: 58%;
+}
+
+.o-59 {
+  opacity: 0.59;
+}
+
+.w-59 {
+  width: 59%;
+}
+
+.o-60 {
+  opacity: 0.6;
+}
+
+.w-60 {
+  width: 60%;
+}
+
+.o-61 {
+  opacity: 0.61;
+}
+
+.w-61 {
+  width: 61%;
+}
+
+.o-62 {
+  opacity: 0.62;
+}
+
+.w-62 {
+  width: 62%;
+}
+
+.o-63 {
+  opacity: 0.63;
+}
+
+.w-63 {
+  width: 63%;
+}
+
+.o-64 {
+  opacity: 0.64;
+}
+
+.w-64 {
+  width: 64%;
+}
+
+.o-65 {
+  opacity: 0.65;
+}
+
+.w-65 {
+  width: 65%;
+}
+
+.o-66 {
+  opacity: 0.66;
+}
+
+.w-66 {
+  width: 66%;
+}
+
+.o-67 {
+  opacity: 0.67;
+}
+
+.w-67 {
+  width: 67%;
+}
+
+.o-68 {
+  opacity: 0.68;
+}
+
+.w-68 {
+  width: 68%;
+}
+
+.o-69 {
+  opacity: 0.69;
+}
+
+.w-69 {
+  width: 69%;
+}
+
+.o-70 {
+  opacity: 0.7;
+}
+
+.w-70 {
+  width: 70%;
+}
+
+.o-71 {
+  opacity: 0.71;
+}
+
+.w-71 {
+  width: 71%;
+}
+
+.o-72 {
+  opacity: 0.72;
+}
+
+.w-72 {
+  width: 72%;
+}
+
+.o-73 {
+  opacity: 0.73;
+}
+
+.w-73 {
+  width: 73%;
+}
+
+.o-74 {
+  opacity: 0.74;
+}
+
+.w-74 {
+  width: 74%;
+}
+
+.o-75 {
+  opacity: 0.75;
+}
+
+.w-75 {
+  width: 75%;
+}
+
+.o-76 {
+  opacity: 0.76;
+}
+
+.w-76 {
+  width: 76%;
+}
+
+.o-77 {
+  opacity: 0.77;
+}
+
+.w-77 {
+  width: 77%;
+}
+
+.o-78 {
+  opacity: 0.78;
+}
+
+.w-78 {
+  width: 78%;
+}
+
+.o-79 {
+  opacity: 0.79;
+}
+
+.w-79 {
+  width: 79%;
+}
+
+.o-80 {
+  opacity: 0.8;
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.o-81 {
+  opacity: 0.81;
+}
+
+.w-81 {
+  width: 81%;
+}
+
+.o-82 {
+  opacity: 0.82;
+}
+
+.w-82 {
+  width: 82%;
+}
+
+.o-83 {
+  opacity: 0.83;
+}
+
+.w-83 {
+  width: 83%;
+}
+
+.o-84 {
+  opacity: 0.84;
+}
+
+.w-84 {
+  width: 84%;
+}
+
+.o-85 {
+  opacity: 0.85;
+}
+
+.w-85 {
+  width: 85%;
+}
+
+.o-86 {
+  opacity: 0.86;
+}
+
+.w-86 {
+  width: 86%;
+}
+
+.o-87 {
+  opacity: 0.87;
+}
+
+.w-87 {
+  width: 87%;
+}
+
+.o-88 {
+  opacity: 0.88;
+}
+
+.w-88 {
+  width: 88%;
+}
+
+.o-89 {
+  opacity: 0.89;
+}
+
+.w-89 {
+  width: 89%;
+}
+
+.o-90 {
+  opacity: 0.9;
+}
+
+.w-90 {
+  width: 90%;
+}
+
+.o-91 {
+  opacity: 0.91;
+}
+
+.w-91 {
+  width: 91%;
+}
+
+.o-92 {
+  opacity: 0.92;
+}
+
+.w-92 {
+  width: 92%;
+}
+
+.o-93 {
+  opacity: 0.93;
+}
+
+.w-93 {
+  width: 93%;
+}
+
+.o-94 {
+  opacity: 0.94;
+}
+
+.w-94 {
+  width: 94%;
+}
+
+.o-95 {
+  opacity: 0.95;
+}
+
+.w-95 {
+  width: 95%;
+}
+
+.o-96 {
+  opacity: 0.96;
+}
+
+.w-96 {
+  width: 96%;
+}
+
+.o-97 {
+  opacity: 0.97;
+}
+
+.w-97 {
+  width: 97%;
+}
+
+.o-98 {
+  opacity: 0.98;
+}
+
+.w-98 {
+  width: 98%;
+}
+
+.o-99 {
+  opacity: 0.99;
+}
+
+.w-99 {
+  width: 99%;
+}
+
+.o-100 {
+  opacity: 1;
+}
+
+.w-100 {
+  width: 100%;
 }
 
 .flexrow-center-center {
