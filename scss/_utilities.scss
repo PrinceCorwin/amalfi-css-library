@@ -1,5 +1,16 @@
 @use "sass:math";
-
+.absolute {
+  position: absolute;
+}
+.fixed {
+  position: fixed;
+}
+.relative {
+  position: relative;
+}
+.sticky {
+  position: sticky;
+}
 $utilities: (
   "box-shadow": (
     "prefix": "bs",
@@ -168,36 +179,20 @@ $utilities: (
       "10": $base-margin * 10,
     ),
   ),
-  // "opacity": (
-  //   "prefix": "o",
-  //   "values": (
-  //     "10": 0.1,
-  //     "20": 0.2,
-  //     "30": 0.3,
-  //     "40": 0.4,
-  //     "50": 0.5,
-  //     "60": 0.6,
-  //     "70": 0.7,
-  //     "80": 0.8,
-  //     "90": 0.9,
-  //     "100": 1,
-  //   ),
-  // ),
-  "border-radius":
-    (
-      "prefix": "br",
-      "values": (
-        "default": $base-border-radius,
-        "none": 0,
-        "xs": $border-radius-xs,
-        "sm": $border-radius-sm,
-        "md": $border-radius-md,
-        "lg": $border-radius-lg,
-        "xl": $border-radius-xl,
-        "xxl": $border-radius-xxl,
-        "full": 50%,
-      ),
+  "border-radius": (
+    "prefix": "br",
+    "values": (
+      "default": $base-border-radius,
+      "none": 0,
+      "xs": $border-radius-xs,
+      "sm": $border-radius-sm,
+      "md": $border-radius-md,
+      "lg": $border-radius-lg,
+      "xl": $border-radius-xl,
+      "xxl": $border-radius-xxl,
+      "full": 50%,
     ),
+  ),
   "display": (
     "prefix": "display",
     "values": (
@@ -231,6 +226,15 @@ $utilities: (
       "10k": 10000,
     ),
   ),
+  "overflow": (
+    "prefix": "overflow",
+    "values": (
+      "hidden": hidden,
+      "visible": visible,
+      "scroll": scroll,
+      "auto": auto,
+    ),
+  ),
 );
 
 // generate utility classes
@@ -248,6 +252,17 @@ $utilities: (
       }
       .#{$prefix}y-#{$k} {
         #{$property}: $v 0 $v 0;
+      }
+    }
+    @if ($prefix == "overflow") {
+      .#{$prefix}-#{$k} {
+        #{$property}: $v;
+      }
+      .#{$prefix}x-#{$k} {
+        #{$property}-x: $v;
+      }
+      .#{$prefix}y-#{$k} {
+        #{$property}-y: $v;
       }
     }
     @if ($prefix == "m") {
@@ -273,7 +288,7 @@ $utilities: (
     }
   }
 }
-@for $i from 1 through 100 {
+@for $i from 0 through 100 {
   .o-#{$i} {
     opacity: math.div($i, 100);
   }
