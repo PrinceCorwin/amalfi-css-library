@@ -1,17 +1,24 @@
 @use "sass:math";
-.absolute {
-  position: absolute;
+
+// position
+@each $key, $val in $position {
+  .#{$key} {
+    position: #{$val};
+  }
 }
-.fixed {
-  position: fixed;
-}
-.relative {
-  position: relative;
-}
-.sticky {
-  position: sticky;
-}
+
 $utilities: (
+  "transform": (
+    "prefix": "r",
+    "values": (
+      "0": 0,
+      "45": 45,
+      "90": 90,
+      "180": 180,
+      "270": 270,
+      "315": 315,
+    ),
+  ),
   "box-shadow": (
     "prefix": "bs",
     "values": (
@@ -194,7 +201,7 @@ $utilities: (
     ),
   ),
   "display": (
-    "prefix": "display",
+    "prefix": "d",
     "values": (
       "n": none,
       "b": block,
@@ -253,8 +260,11 @@ $utilities: (
       .#{$prefix}y-#{$k} {
         #{$property}: $v 0 $v 0;
       }
-    }
-    @if ($prefix == "overflow") {
+    } @else if ($prefix == "r") {
+      .#{$prefix}-#{$k} {
+        #{$property}: rotate(#{$v}deg);
+      }
+    } @else if ($prefix == "overflow") {
       .#{$prefix}-#{$k} {
         #{$property}: $v;
       }
@@ -264,8 +274,7 @@ $utilities: (
       .#{$prefix}y-#{$k} {
         #{$property}-y: $v;
       }
-    }
-    @if ($prefix == "m") {
+    } @else if ($prefix == "m") {
       .#{$prefix}-#{$k} {
         #{$property}: $v;
       }
@@ -294,5 +303,32 @@ $utilities: (
   }
   .w-#{$i} {
     width: math.div($i, 100) * 100%;
+  }
+  .w-#{$i*5}px {
+    width: $i * 5px;
+  }
+  .h-#{$i} {
+    height: math.div($i, 100) * 100%;
+  }
+  .h-#{$i*5}px {
+    height: $i * 5px;
+  }
+  .vw-#{$i} {
+    width: #{$i}vw;
+  }
+  .vh-#{$i} {
+    height: #{$i}vh;
+  }
+  .top-#{$i} {
+    top: math.div($i, 100) * 100%;
+  }
+  .bottom-#{$i} {
+    bottom: math.div($i, 100) * 100%;
+  }
+  .right-#{$i} {
+    right: math.div($i, 100) * 100%;
+  }
+  .left-#{$i} {
+    left: math.div($i, 100) * 100%;
   }
 }

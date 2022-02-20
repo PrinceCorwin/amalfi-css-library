@@ -66,6 +66,15 @@ $alignContent: (
   "inherit": inherit,
   "stretch": stretch,
 ) !default;
+
+// position
+$position: (
+  "fixed": fixed,
+  "absolute": absolute,
+  "sticky": sticky,
+  "relative": relative,
+  "static": static,
+);
 // spacing
 $base-padding: 0.25rem !default;
 $base-margin: 0.5rem !default;
