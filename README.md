@@ -3,7 +3,7 @@
 ## Styling made simple!
 
 <p> Let's face it... adding CSS to your code is a chore</p>
-<p>AmalfiCSS bootstraps your app using SASS with a versatile index.css file of over 15000 classes, including utilities, flex, grid, breakpoints, customizable colors and fonts, and more </p>
+<p>AmalfiCSS bootstraps your app using SASS with a versatile index.css file of over 5000 classes, including utilities, flex, grid, breakpoints, customizable colors and fonts, and more </p>
 <p>index.css file purged during build to remove unused classes, streamlining your code</p>
 <p></p>
 

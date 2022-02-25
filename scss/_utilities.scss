@@ -22,10 +22,10 @@ $utilities: (
   "box-shadow": (
     "prefix": "bs",
     "values": (
-      "default": 1px 2px 5px rgba(0, 0, 0, 0.4),
-      "strong": 5px 5px 10px rgba(0, 0, 0, 0.5),
-      "light": 1px 2px 5px rgba(255, 255, 255, 0.4),
-      "light-strong": 5px 5px 10px rgba(255, 255, 255, 0.5),
+      "default": 1px 2px 10px rgba(0, 0, 0, 0.6),
+      "strong": 2px 4px 15px rgba(0, 0, 0, 0.7),
+      "light": 1px 2px 10px rgba(255, 255, 255, 0.6),
+      "light-strong": 2px 4px 15px rgba(255, 255, 255, 0.7),
     ),
   ),
   "padding": (
@@ -300,6 +300,9 @@ $utilities: (
   }
 }
 @for $i from 0 through 100 {
+  .transition-#{$i} {
+    transition: all math.div($i, 100) * 1s ease-in-out;
+  }
   .o-#{$i} {
     opacity: math.div($i, 100);
   }

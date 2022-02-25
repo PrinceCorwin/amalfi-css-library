@@ -10,7 +10,7 @@
     <!-- navbar -->
     <nav class="flexrow-between-center p-3">
       <h1 class="color-blue color-hover-blue-light-7">Amalfi Makes It</h1>
-      <ul class="display-f">
+      <ul class="d-f">
         <li class="color-hover-secondary">
           <a href="#work">Our Work</a>
         </li>
@@ -60,11 +60,11 @@
 
     <!-- work section -->
     <section class="py-4">
-      <div class="cards-container">
+      <div class="cards-container bg-green-dark-4">
         <h2 class="cards-title">Some of Our Work</h2>
         <div class="flexrow-center-center wrap gap-1">
           <div class="col-12-xs col-6-md col-3-lg">
-            <div class="card bg-teal-light-5">
+            <div class="card bg-teal-light-5 bs-strong">
               <h3 class="card-title">
                 Badge and Background
                 <span class="badge-orange color-white ml-1">new</span>
@@ -73,33 +73,40 @@
                 <img src="./img/drumPreview.png" alt="" />
               </div>
               <p class="card-body color-white">
-                bg class on card element, badge, card-img-full (img already
-                square), color class on card-body
+                card-img-full (img already square), bg-strong on card,
+                color-white on body
               </p>
             </div>
           </div>
           <div class="col-12-xs col-6-md col-3-lg">
-            <div class="card">
+            <div class="card color-white bg-orange-dark-5 bs-strong">
               <h3 class="card-title">Stock Effect</h3>
               <div class="card-img-full">
                 <img src="./img/background.png" alt="" />
               </div>
               <p class="card-body">
-                card-img-full. Img not square. Nothing added to card classes
+                card-img-full. Img not square. bs-strong color-white on card
               </p>
             </div>
           </div>
           <div class="col-12-xs col-6-md col-3-lg">
-            <div class="card">
+            <div class="card color-white bg-blue-dark-5 bs">
               <h3 class="card-title">Round from Square</h3>
               <div class="card-img-round">
-                <img src="./img/drumPreview.png" alt="" />
+                <img
+                  class="bs-light-strong"
+                  src="./img/drumPreview.png"
+                  alt=""
+                />
               </div>
-              <p class="card-body">card-img-round class on square img</p>
+              <p class="card-body">
+                card-img-round class on square img, bs-light-strong on img, bs
+                color-white on card
+              </p>
             </div>
           </div>
           <div class="col-12-xs col-6-md col-3-lg">
-            <div class="card">
+            <div class="card bg-gray-dark-6 bs-strong color-white">
               <h3 class="card-title">Round from Unsquare</h3>
               <div class="card-img-round">
                 <img src="./img/background.png" alt="" />
@@ -111,9 +118,11 @@
       </div>
     </section>
     <div class="flexrow-start-center mt-2">
-      <button class="btn-teal-white font-md ml-3">View All</button>
-      <button class="btn-outline-teal-teal color-hover-white ml-3">
-        View All
+      <button class="br-md btn-teal-white fs-md ml-3">Hover</button>
+      <button
+        class="bs br-sm fs-md btn-outline-teal-teal color-hover-white ml-3"
+      >
+        Effect
       </button>
     </div>
     <!-- footer -->
