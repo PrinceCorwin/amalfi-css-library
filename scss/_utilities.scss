@@ -335,40 +335,40 @@ $utilities: (
   .h-#{$i}vh {
     height: #{$i}vh;
   }
-  .w-#{$i}min {
+  .minw-#{$i} {
     min-width: math.div($i, 100) * 100%;
   }
-  .w-#{$i}minpx {
+  .minw-#{$i*5}px {
     min-width: $i * 5px;
   }
-  .w-#{$i}minvw {
+  .minw-#{$i}vw {
     min-width: #{$i}vw;
   }
-  .h-#{$i}min {
+  .minh-#{$i} {
     min-height: math.div($i, 100) * 100%;
   }
-  .h-#{$i}minpx {
+  .minh-#{$i*5}px {
     min-height: $i * 5px;
   }
-  .h-#{$i}minvh {
+  .minh-#{$i}vh {
     min-height: #{$i}vh;
   }
-  .w-#{$i}max {
+  .maxw-#{$i} {
     max-width: math.div($i, 100) * 100%;
   }
-  .w-#{$i}maxpx {
+  .maxw-#{$i*5}px {
     max-width: $i * 5px;
   }
-  .w-#{$i}maxvw {
+  .maxw-#{$i}vw {
     max-width: #{$i}vw;
   }
-  .h-#{$i}max {
+  .maxh-#{$i} {
     max-height: math.div($i, 100) * 100%;
   }
-  .h-#{$i}maxpx {
+  .maxh-#{$i*5}px {
     max-height: $i * 5px;
   }
-  .h-#{$i}maxvh {
+  .maxh-#{$i}vh {
     max-height: #{$i}vh;
   }
   .top-#{$i} {
