@@ -1,7 +1,7 @@
 {
   "name": "amalfi-css-library",
   "version": "1.0.0",
-  "description": "Steve Amalfitano CSS library",
+  "description": "Steve Amalfitano SASS powered CSS library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
