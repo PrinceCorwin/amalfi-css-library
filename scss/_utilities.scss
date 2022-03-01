@@ -244,6 +244,17 @@ $utilities: (
       "auto": auto,
     ),
   ),
+  "text-align": (
+    "prefix": "ta",
+    "values": (
+      "center": center,
+      "left": left,
+      "right": right,
+      "justify": justify,
+      "initial": initial,
+      "inherit": inherit,
+    ),
+  ),
 );
 
 // generate utility classes
