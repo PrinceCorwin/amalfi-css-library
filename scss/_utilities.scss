@@ -268,10 +268,12 @@ $utilities: (
         #{$property}: $v;
       }
       .#{$prefix}x-#{$k} {
-        #{$property}: 0 $v 0 $v;
+        #{$property}-left: $v;
+        #{$property}-right: $v;
       }
       .#{$prefix}y-#{$k} {
-        #{$property}: $v 0 $v 0;
+        #{$property}-top: $v;
+        #{$property}-bottom: $v;
       }
     } @else if ($prefix == "r") {
       .#{$prefix}-#{$k} {
